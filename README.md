@@ -1,5 +1,8 @@
 # 1:4 Scale UR3 Robot Arm – Magnetic Fridge Model
 
+<img width="726" height="962" alt="image" src="https://github.com/user-attachments/assets/86e826c1-f7cc-4b94-9cfc-d7c09c720184" />
+
+
 A 1:4 scale 3D-printed UR3 robot arm with magnetic joints. When assembled, the arm moves like the real Universal Robot UR3 robot arm, with fully articulating joints. Each joint can also be separated and used as individual fridge magnets—and the gripper doubles as a clip.  
 
 🔗 View on [MakerWorld](https://makerworld.com/en/models/1741979-robot-arm-fridge-magnet-ur3#profileId-1851277)
@@ -35,16 +38,15 @@ A 1:4 scale 3D-printed UR3 robot arm with magnetic joints. When assembled, the a
 
 ## Assembly Instructions
 
-1. Refer to the provided labeled assembly diagram.  
-2. Glue magnets into each joint socket. **Important:** Start from the base and keep magnet polarity consistent so joints attract (not repel).  
-3. Magnet counts per part:  
+1. Glue magnets into each joint socket. **Important:** Start from the base and keep magnet polarity consistent so joints attract (not repel).  
+2. Magnet counts per part:  
    - UR3-Base: 4 magnets  
    - UR3-L1: 4 magnets  
    - UR3-L2: 3 magnets (2 bottom, 1 top)  
    - UR3-L3: 2 magnets  
    - UR3-L4 + UR3-L5: 2 magnets each  
    - UR3-Gripper: 1 magnet  
-4. Attach caps with super glue:  
+3. Attach caps with super glue:  
    - UR3-Base: no cap  
    - UR3-L1: UR3 Big Cap-AC  
    - UR3-L2: UR3 Big Cap-UR + UR3 Middle Cap  
